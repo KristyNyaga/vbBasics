@@ -1,0 +1,13 @@
+C:\Users\nyaga\source\repos\intro_to_vb\intro_to_vb\bin\Debug\intro_to_vb.exe.config
+C:\Users\nyaga\source\repos\intro_to_vb\intro_to_vb\bin\Debug\intro_to_vb.exe
+C:\Users\nyaga\source\repos\intro_to_vb\intro_to_vb\bin\Debug\intro_to_vb.pdb
+C:\Users\nyaga\source\repos\intro_to_vb\intro_to_vb\bin\Debug\intro_to_vb.xml
+C:\Users\nyaga\source\repos\intro_to_vb\intro_to_vb\obj\Debug\intro_to_vb.vbproj.AssemblyReference.cache
+C:\Users\nyaga\source\repos\intro_to_vb\intro_to_vb\obj\Debug\intro_to_vb.Form1.resources
+C:\Users\nyaga\source\repos\intro_to_vb\intro_to_vb\obj\Debug\intro_to_vb.Form2.resources
+C:\Users\nyaga\source\repos\intro_to_vb\intro_to_vb\obj\Debug\intro_to_vb.Resources.resources
+C:\Users\nyaga\source\repos\intro_to_vb\intro_to_vb\obj\Debug\intro_to_vb.vbproj.GenerateResource.cache
+C:\Users\nyaga\source\repos\intro_to_vb\intro_to_vb\obj\Debug\intro_to_vb.vbproj.CoreCompileInputs.cache
+C:\Users\nyaga\source\repos\intro_to_vb\intro_to_vb\obj\Debug\intro_to_vb.exe
+C:\Users\nyaga\source\repos\intro_to_vb\intro_to_vb\obj\Debug\intro_to_vb.xml
+C:\Users\nyaga\source\repos\intro_to_vb\intro_to_vb\obj\Debug\intro_to_vb.pdb
